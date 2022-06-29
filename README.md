@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi 👋 My name is Matt<br>
+<hr>
 Aspiring Developer
