@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 Hi 👋 My name is Matt<br>
 <hr>
-Aspiring Developer
+Web Developer
+<hr>
