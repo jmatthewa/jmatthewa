@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-  <img src="" width="100"/>
-</div>
-<div id="badges">
-  <center>
+
+  
+  <div id="badges">
+
   <a href="www.linkedin.com/in/james-matthew-atanacio-0b0882173">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>\
-  </center>
+  </a>
+
 </div>
-<h1>
+  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<hr>
-Web Developer
-<hr>
+
+</div>
+
 
