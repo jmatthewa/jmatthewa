@@ -18,9 +18,11 @@ Here are some ideas to get you started:
   <img src="" width="100"/>
 </div>
 <div id="badges">
+  <center>
   <a href="www.linkedin.com/in/james-matthew-atanacio-0b0882173">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>\
+  </center>
 </div>
 <h1>
   hey there
